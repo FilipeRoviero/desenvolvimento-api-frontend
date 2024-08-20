@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  margin-top: 200px;
+  background-color: black;
+  color: white;
+}
+
+input {
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: solid;
+}
+
+ul {
+  list-style: none;
+}
+.btn-primary {
+  margin: 10px;
+}
